@@ -1,0 +1,4 @@
+c:\users\smicalizzi\documents\visual studio 2015\Projects\MVCApplicationForTest\MVCApplicationServiceLayer\bin\Debug\MVCApplicationServiceLayer.dll
+c:\users\smicalizzi\documents\visual studio 2015\Projects\MVCApplicationForTest\MVCApplicationServiceLayer\bin\Debug\MVCApplicationServiceLayer.pdb
+c:\users\smicalizzi\documents\visual studio 2015\Projects\MVCApplicationForTest\MVCApplicationServiceLayer\obj\Debug\MVCApplicationServiceLayer.dll
+c:\users\smicalizzi\documents\visual studio 2015\Projects\MVCApplicationForTest\MVCApplicationServiceLayer\obj\Debug\MVCApplicationServiceLayer.pdb
